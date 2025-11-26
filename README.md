@@ -1,6 +1,19 @@
+# 📘 **Inventory Management System – Development Setup**
+
+A simple inventory management system built with:
+
+* **Laravel (Backend API)**
+* **React + Vite (Frontend)**
+* **Axios**
+* **Tailwind CSS**
+* **MySQL / SQLite**
+* **Lucide Icons**
+
+This README explains how to set up the project locally for development.
+
 ---
 
-# 🚀 **1. Requirements**
+# 🚀 **Requirements**
 
 # Make sure you have installed:
 

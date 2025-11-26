@@ -2,7 +2,7 @@
 
 # 🚀 **1. Requirements**
 
-Make sure you have installed:
+# Make sure you have installed:
 
 ### **Backend**
 
